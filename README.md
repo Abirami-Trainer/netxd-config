@@ -1,1 +1,1 @@
-# netxd-congig
+# netxd-config
